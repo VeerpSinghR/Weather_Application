@@ -1,6 +1,6 @@
 # Weather_Application
 
-Welcome to the Weather App! This is a simple weather application that fetches data from a weather API and provides weather information based on the given loac. The application displays the current weather conditions, temperature, and wind speed in the given location.
+Welcome to the Weather App! This is a simple weather application that fetches data from a weather API and provides weather information based on the given location. The application displays the current weather conditions, temperature, and wind speed in the given location.
 
 ### Features
 
@@ -20,6 +20,6 @@ Welcome to the Weather App! This is a simple weather application that fetches da
 
 ### Usage
 
-`Once you have opened the application in your web browser, you can use the search bar to search for weather data for any city in the world. You can also click the "Grant Access" button to automatically determine your location and display the weather for that location other than this you can go on the search bar too to get the Weather for a particular location.`
+`Once you have opened the application in your web browser, you can use the search bar to search for weather data for any city in the world. You can also click the "Grant Access" button to automatically determine your location and display the weather for that location other than this you can go on the search bar to get the Weather for a particular location.`
 
 
